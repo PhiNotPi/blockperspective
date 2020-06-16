@@ -2,6 +2,8 @@
 
 Given block coordinates, draw lines on the panorama to show the position of that block.
 
+Important notice.... there's an issue regarding rotation (this script was originally written for when the recreation had different coords), so X/Z values aren't quite right.  I should really fix this soon.
+
 For those who don’t have local python:
 1.	Download the jupyter notebook and the required image file
 2.	Go to google colab     https://colab.research.google.com/
